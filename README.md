@@ -8,6 +8,8 @@
 - 😄 Pronomes: Ele/Dele <br>
 - 🎵 "Peace is the virtue, never forget"
 
+<br>
+
 ## Tecnologias
 <div style="display: inline_block">
   <img align= "center" alt="c-sharp" height="40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
