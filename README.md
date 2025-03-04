@@ -2,7 +2,7 @@
 <img align= right height= 200px alt="gif-obi" src= "https://media1.tenor.com/m/Tsob5aHiS3UAAAAC/hello-there.gif"/>
 - 🙂 20 anos<br>
 - 🌱 Cursando Ciência da Computação (05/08)<br>
-- 👨‍🎓 Cruzeiro do Sul Virtual<br>
+- 🎓 Cruzeiro do Sul Virtual<br>
 - 🖥️ Foco principal na linguagem C#<br>
 - 🔭 Aperfeiçoando minhas habilidades para usá-las profissionalmente<br>
 - 😄 Pronomes: Ele/Dele <br>
