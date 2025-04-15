@@ -13,7 +13,7 @@
 <br>
 
 ## Tecnologias
-<div style="display: inline_block">
+<div style="display: inline_block" align= "center">
   <img align= "center" alt="c-sharp" height="40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img align= "center" alt="dot-net" height="40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" />
   <img align= "center" alt="html" height="40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
