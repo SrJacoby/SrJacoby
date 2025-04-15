@@ -24,7 +24,7 @@
   <img align= "center" alt="ps" height="40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />     
 </div>
 <br>
-<div>
+<div align= "center">
   <img height= "210em" src= "https://github-readme-stats.vercel.app/api?username=SrJacoby&show_icons=true&theme=tokyonight&include_all_commits=true"/>
   <img height= "210em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=SrJacoby&theme=tokyonight" />
 </div>
