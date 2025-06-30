@@ -34,7 +34,7 @@
 <div style="display: inline_block">
 <a href= "https://www.linkedin.com/in/luiz-augusto-da-cruz-jacoby-b35661285/" target="_blank"><img alt="luiz-linkedin" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:luizjacoby294@gmail.com" target="_blank"><img alt="luiz-email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://srjacoby.github.io/portfolio/" target="_blank"><img alt="luiz-port" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://portfolio-digital-rouge.vercel.app" target="_blank"><img alt="luiz-port" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://www.reddit.com/user/Sr_Jacoby/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" target="_blank"><img alt="luiz-reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/srjacoby" target="_blank"><img alt="luiz-twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
