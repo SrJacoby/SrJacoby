@@ -1,6 +1,6 @@
 <div>
 <h2>Olá! Sejam bem-vindos ao meu humilde perfil!</h2>
-<img align= right height= 200px alt="gif-obi" src= "https://media1.tenor.com/m/Tsob5aHiS3UAAAAC/hello-there.gif"/>
+<img align= right height= 200px width= 220px alt="gif-obi" src= "https://media1.tenor.com/m/Tsob5aHiS3UAAAAC/hello-there.gif"/>
 - 🙂 20 anos<br>
 - 🌱 Cursando Ciência da Computação (05/08)<br>
 - 🎓 Cruzeiro do Sul Virtual<br>
